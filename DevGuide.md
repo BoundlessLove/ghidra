@@ -1,6 +1,6 @@
 # Developer's Guide
 
-## Environment
+## Environment 
 * Primary Language: [Java][java]
 * Secondary Languages: [C++][cpp], [Sleigh][sleigh], [Jython][jython]
 * Integrated Development Environment: [Eclipse][eclipse]
